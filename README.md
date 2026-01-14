@@ -12,7 +12,7 @@
 
 ## Systems & Operating Environments - [Operating System](https://github.com/abegailmccalla/Basic-Operating-System.git)
 
-## IoT & Automation - [Smart Greenhouse]() - [Weather Monitoring System](https://github.com/abegailmccalla/Weather-Station.git)
+## IoT & Automation - [Smart Greenhouse](https://github.com/abegailmccalla/SmartGrow.git) - [Weather Monitoring System](https://github.com/abegailmccalla/Weather-Station.git)
 
-## Digital Signal Processing & Embedded Systems - [QAM Transmitter and Receiver]() - [Acoustic Modem Prototype]() - [Digital Clock](https://github.com/abegailmccalla/Digital-Clock-Project.git)
+## Digital Signal Processing & Embedded Systems - [QAM Transmitter and Receiver](https://github.com/abegailmccalla/QAM.git) - [Digital Clock](https://github.com/abegailmccalla/Digital-Clock-Project.git)
 
